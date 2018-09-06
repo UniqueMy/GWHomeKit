@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GWHomeKit_Example' do
+  pod 'GWHomeKit', :path => '../'
+
+  target 'GWHomeKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

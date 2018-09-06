@@ -1,0 +1,16 @@
+PODS:
+  - GWHomeKit (0.1.0)
+
+DEPENDENCIES:
+  - GWHomeKit (from `../`)
+
+EXTERNAL SOURCES:
+  GWHomeKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GWHomeKit: 0828fdf2bf8438ae07c10ff48007e90107b8640a
+
+PODFILE CHECKSUM: f8da2119f6d007688e5c134fe1aea629a4b203e7
+
+COCOAPODS: 1.5.2
